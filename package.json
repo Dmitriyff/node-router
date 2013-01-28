@@ -1,0 +1,9 @@
+{
+	"name": "node-router",
+	"description": "",
+	"author": "Dmitriyff Smile <dmitriyff@gmail.com>",
+	"version": "0.0.2",
+	"dependencies": { },
+	"devDependencies": { },
+	"engine": "node > 0.6.*"	
+}
